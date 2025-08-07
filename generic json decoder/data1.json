@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "requestId": "req_1001",
+    "timestamp": "2025-08-01T10:00:00Z"
+  },
+  "payload": {
+    "data": {
+      "token": "abc123",
+      "userId": 42
+    }
+  }
+}

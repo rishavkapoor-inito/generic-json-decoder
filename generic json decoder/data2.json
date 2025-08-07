@@ -1,0 +1,9 @@
+{
+  "meta": {
+    "requestId": "req_1002",
+    "timestamp": "2025-08-01T10:05:00Z"
+  },
+  "payload": {
+    "error": "Invalid credentials"
+  }
+}
